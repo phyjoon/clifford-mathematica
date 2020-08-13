@@ -1,1 +1,1 @@
-clifford
+# Clifford circuits in Mathematica
